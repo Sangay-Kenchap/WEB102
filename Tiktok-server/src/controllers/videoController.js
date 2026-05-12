@@ -1,3 +1,4 @@
+const storageService = require('../services/storageService');
 const prisma = require('../lib/prisma');
 
 // Get all videos
